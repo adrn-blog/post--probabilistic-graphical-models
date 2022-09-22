@@ -3,3 +3,6 @@ date: 2022-09-21
 slug: "probabilistic-graphical-models"
 source: "post--probabilistic-graphical-models"
 math: true
+other_files:
+  - 'echelle_spec.jpg'
+  - 'PGM-slides.pdf'
