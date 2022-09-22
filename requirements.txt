@@ -67,6 +67,8 @@ filelock==3.8.0
     # via aesara
 fonttools==4.37.3
     # via matplotlib
+graphviz==0.20.1
+    # via -r requirements.in
 ipykernel==6.15.3
     # via
     #   -r requirements.in
