@@ -1,0 +1,29 @@
+# Fonts:
+font.size: 14
+font.serif: Old Standard TT
+font.family: serif
+mathtext.fontset: cm
+
+# Axes:
+axes.labelcolor: k
+axes.axisbelow: True
+
+# Lines:
+lines.linestyle        : -       # solid line
+lines.marker           : o    # the default marker
+lines.markeredgewidth  : 0     # the line width around the marker symbol
+lines.markersize       : 5           # markersize, in points
+
+# Ticks:
+xtick.color: 333333
+xtick.direction: in
+ytick.color: 333333
+ytick.direction: in
+xtick.top: True
+ytick.right: True
+
+figure.dpi: 100
+savefig.dpi: 100
+
+# Color:
+axes.prop_cycle: cycler(color=['k', 'tab:blue', 'tab:orange', 'tab:green', 'tab:red', 'tab:purple', 'tab:brown', 'tab:pink', 'tab:gray', 'tab:olive', 'tab:cyan'])
